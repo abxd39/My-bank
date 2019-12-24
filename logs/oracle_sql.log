@@ -1,0 +1,46 @@
+[xorm] [info]  2019/12/11 14:42:14.795927 ts info code
+[xorm] [info]  2019/12/11 14:42:14.796080 [SQL] select * from cp_order where id = :1  []interface {}{3}
+[xorm] [info]  2019/12/16 16:22:16.308097 ts info code
+[xorm] [info]  2019/12/16 16:22:16.309450 [SQL] select * from cp_order where id = :1  []interface {}{3}
+[xorm] [info]  2019/12/16 16:25:58.734876 ts info code
+[xorm] [info]  2019/12/16 16:25:58.735032 [SQL] select * from cp_order where id = :1  []interface {}{3}
+[xorm] [info]  2019/12/16 16:34:53.508240 ts info code
+[xorm] [info]  2019/12/16 16:34:53.508359 [SQL] select * from cp_order where id = :1  []interface {}{3}
+[xorm] [info]  2019/12/16 16:37:25.884976 ts info code
+[xorm] [info]  2019/12/16 16:37:25.885169 [SQL] select * from cp_order where id = :1  []interface {}{3}
+[xorm] [info]  2019/12/16 16:46:14.723942 ts info code
+[xorm] [info]  2019/12/16 16:46:14.724225 [SQL] select * from cp_order where id = :1  []interface {}{3}
+[xorm] [info]  2019/12/16 16:47:03.145110 ts info code
+[xorm] [info]  2019/12/16 16:47:03.145429 [SQL] select * from cp_order where id = :1  []interface {}{3}
+[xorm] [info]  2019/12/16 16:52:59.002934 ts info code
+[xorm] [info]  2019/12/16 16:52:59.003114 [SQL] select * from cp_order where id = :1  []interface {}{3}
+[xorm] [info]  2019/12/16 16:53:09.867322 ts info code
+[xorm] [info]  2019/12/16 16:53:09.867461 [SQL] select * from cp_order where id = :1  []interface {}{3}
+[xorm] [info]  2019/12/16 16:54:09.626863 ts info code
+[xorm] [info]  2019/12/16 16:54:09.626989 [SQL] select * from cp_order where id = :1  []interface {}{3}
+[xorm] [info]  2019/12/16 16:56:59.201590 ts info code
+[xorm] [info]  2019/12/16 16:56:59.201732 [SQL] select * from cp_order where id = :1  []interface {}{3}
+[xorm] [info]  2019/12/16 16:57:35.478488 ts info code
+[xorm] [info]  2019/12/16 16:57:35.478615 [SQL] select * from cp_order where id = :1  []interface {}{3}
+[xorm] [info]  2019/12/16 17:04:39.301345 ts info code
+[xorm] [info]  2019/12/16 17:04:39.301482 [SQL] select * from cp_order where id = :1  []interface {}{3}
+[xorm] [info]  2019/12/18 14:13:34.035580 ts info code
+[xorm] [info]  2019/12/18 14:13:34.036307 [SQL] select * from cp_order where id = :1  []interface {}{3}
+[xorm] [info]  2019/12/18 14:15:27.745105 ts info code
+[xorm] [info]  2019/12/18 14:15:27.745650 [SQL] select * from cp_order where id = :1  []interface {}{3}
+[xorm] [info]  2019/12/18 14:16:36.039254 ts info code
+[xorm] [info]  2019/12/18 14:16:36.039420 [SQL] select * from cp_order where id = :1  []interface {}{3}
+[xorm] [info]  2019/12/18 14:17:05.466918 ts info code
+[xorm] [info]  2019/12/18 14:17:05.467042 [SQL] select * from cp_order where id = :1  []interface {}{3}
+[xorm] [info]  2019/12/18 14:20:12.761842 ts info code
+[xorm] [info]  2019/12/18 14:20:12.762029 [SQL] select * from cp_order where id = :1  []interface {}{3}
+[xorm] [info]  2019/12/18 14:23:39.481707 ts info code
+[xorm] [info]  2019/12/18 14:23:39.481839 [SQL] select * from cp_order where id = :1  []interface {}{3}
+[xorm] [info]  2019/12/18 14:24:08.615624 ts info code
+[xorm] [info]  2019/12/18 14:24:08.615747 [SQL] select * from cp_order where id = :1  []interface {}{3}
+[xorm] [info]  2019/12/18 14:27:03.579198 ts info code
+[xorm] [info]  2019/12/18 14:27:03.579336 [SQL] select * from cp_order where id = :1  []interface {}{3}
+[xorm] [info]  2019/12/18 14:27:14.533402 ts info code
+[xorm] [info]  2019/12/18 14:27:14.533987 [SQL] select * from cp_order where id = :1  []interface {}{3}
+[xorm] [info]  2019/12/18 14:27:47.818810 ts info code
+[xorm] [info]  2019/12/18 14:27:47.818942 [SQL] select * from cp_order where id = :1  []interface {}{3}
